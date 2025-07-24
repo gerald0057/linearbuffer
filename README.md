@@ -1,5 +1,3 @@
-Here's a comprehensive bilingual README for your linear buffer implementation:
-
 # Linear Buffer Implementation / 线性缓冲区实现
 
 ## English Version
